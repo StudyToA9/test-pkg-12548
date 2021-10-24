@@ -1,0 +1,19 @@
+{
+  "name": "@nitrossroboto/test-pkg-12548",
+  "version": "1.0.0",
+  "description": "test-pkg-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitrossRoboto/test-pkg-12548.git"
+  },
+  "author": "nitrossroboto",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/NitrossRoboto/test-pkg-12548/issues"
+  },
+  "homepage": "https://github.com/NitrossRoboto/test-pkg-12548#readme"
+}

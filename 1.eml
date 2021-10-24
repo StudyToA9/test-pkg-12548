@@ -1,0 +1,61 @@
+Return-Path: <studytoa9@gmail.com>
+Delivered-To: info@sofia.pcriot.com
+Received: from x14.x10hosting.com
+	by x14.x10hosting.com with LMTP
+	id kkraIxJCamHkriAAHYxFFw
+	(envelope-from <studytoa9@gmail.com>)
+	for <info@sofia.pcriot.com>; Fri, 15 Oct 2021 23:08:02 -0400
+Return-path: <studytoa9@gmail.com>
+Envelope-to: info@sofia.pcriot.com
+Delivery-date: Fri, 15 Oct 2021 23:08:02 -0400
+Received: from mail-pf1-f176.google.com ([209.85.210.176])
+	by x14.x10hosting.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94)
+	(envelope-from <studytoa9@gmail.com>)
+	id 1mba3G-00C8Nj-Fo
+	for info@sofia.pcriot.com; Fri, 15 Oct 2021 23:08:02 -0400
+Received: by mail-pf1-f176.google.com with SMTP id 187so9930928pfc.10
+        for <info@sofia.pcriot.com>; Fri, 15 Oct 2021 20:07:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=jUNAvniEb8UAk/9AMrprrx2De/dYOizeRNRKkpS1fRo=;
+        b=GkINkG51yw9lCVQjdABBK1tnYIFb994szr3rBVVZj0jC/IIKczSDcDCa9D5okWUY65
+         3Q8owi6U1mLgU9PsNvM42spzmH41bmPfHtSBNEVj37qCEuUMdd152ZkUSWaO/KeGFGaF
+         XfYdGf3hCIyFJnWOXoVQ6XjbRN81lLpmZC1i2Orn06PRO3qPg3kRo+wQ8X3FBfCWEjb7
+         itgub6cIdthsGiU2qghz16NtnahO6YWE8qvDdIEkgqcDlZSZyEdV1M/zVtxbHHQCM3M+
+         rJ9EWUv4VXmOcZATsMC+JY9E/o45wgSlCclaoFh05EJz9Vr9sSf//nUe/jgr2klzd+6+
+         ihUQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=jUNAvniEb8UAk/9AMrprrx2De/dYOizeRNRKkpS1fRo=;
+        b=6fxa/CDzO48gCCT3ULht79T5Lv3IahxwNxty0/dtRGqRTMuqPW8rZCBUVkyBXeV449
+         OipwLajpwtAekUpsVv75xIkuUQdaUmrKXi+C2Otbjn+MsOtj4Mp8yj9inuc/7pHNoJKy
+         H/hSemJSJ44LNYA3H3QBojC18JA9FumluGftaJGU+e+Kjpr9YaKVEM4R66/1VmoIaVeL
+         czrI/8+KdjO2bsbjPcYYupTLDwwN4LKT1JqPXGh8mPKobjfr22lmOliuXbNMMHdof/BM
+         gk046cKhoNyPyaSRgvcvMI+O35ryhzZAyqQlrKL+DfDnpRAJch0YLxF/54Dm4OIXX0ZD
+         X/5g==
+X-Gm-Message-State: AOAM532kxi++rFzl5BlW+ERWCfXKb3fllIYh6J3mi4G+YotIUyIxCLoi
+	BQdU8K8T90EZ51ZaVwpjWXa9OuuZzXmjVrGRrBaIcH4oDLIbu3zt
+X-Google-Smtp-Source: ABdhPJzCOI7iABSfb1FMPYQ2enWdaeOsrZrl4hK3zuYyMw3FkfjImImT1eHBwCd9ZgxB17UPQ825uHEio3JtrpCwwQM=
+X-Received: by 2002:a63:b51a:: with SMTP id y26mr2149158pge.143.1634353655371;
+ Fri, 15 Oct 2021 20:07:35 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a05:6a10:cad4:0:0:0:0 with HTTP; Fri, 15 Oct 2021 20:07:35
+ -0700 (PDT)
+From: StudyToA9 SriLanka <studytoa9@gmail.com>
+Date: Sat, 16 Oct 2021 08:37:35 +0530
+Message-ID: <CAEPu270NFpBr3dhQOcheE2SAiamHim=+7FakpbWJyjMxyC0Cvg@mail.gmail.com>
+Subject: 
+To: info@sofia.pcriot.com
+Content-Type: text/plain; charset="UTF-8"
+Forward-Confirmed-ReverseDNS: Reverse and forward lookup success on 209.85.210.176, -10 Spam score
+SPFCheck: Server passes SPF test, -30 Spam score
+X-DKIM: signer='gmail.com' status='pass' reason=''
+DKIMCheck: Server passes DKIM test, -20 Spam score
+SpamTally: Final spam score: unset because ESF not run (SpamAssassin unset, whitelist, or skipped)
+X-Antivirus-Scanner: Clean mail though you should still use an Antivirus
+
+info@sofia.pcriot.com
+ test
